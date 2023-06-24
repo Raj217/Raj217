@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on a flutter project and planning of starting a backend project<br>🤝 I'm looking to help with flutter projects<br>🌱 I'm currently learning Rust<br>
+🔭 I'm currently working on a flutter project and planning of starting a backend project<br>🤝 I'm looking to help with flutter projects<br>
 
 
 ## 🌐 Socials:
